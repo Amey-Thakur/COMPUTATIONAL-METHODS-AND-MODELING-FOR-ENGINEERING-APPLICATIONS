@@ -14,7 +14,7 @@
 
 ## MATLAB Project
 
->[Adaptive Cruise Control](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) - PROJECT REPOSITORY
+>**[Adaptive Cruise Control](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) - PROJECT REPOSITORY**
 
   - [MATLAB Code](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL/blob/main/Adaptive%20Cruise%20Control.m)
   
