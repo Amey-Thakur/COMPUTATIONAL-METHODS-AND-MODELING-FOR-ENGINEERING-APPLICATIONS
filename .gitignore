@@ -1,0 +1,35 @@
+# Computational Methods and Modeling for Engineering Applications - Academic Repository
+# Specialized .gitignore for MATLAB scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and IDE configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+node_modules/
+
+# MATLAB / Simulink temporary and auto-generated files
+*.asv
+*.m~
+slprj/
+*.autosave
+*.diag
+*.err
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
