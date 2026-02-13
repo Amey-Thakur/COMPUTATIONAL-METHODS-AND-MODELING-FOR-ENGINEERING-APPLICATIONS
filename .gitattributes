@@ -1,0 +1,30 @@
+# Computational Methods and Modeling for Engineering Applications - Academic Repository
+# Professional .gitattributes for MATLAB scholarly archiving
+
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Ensure text files use LF on checkout
+*.md text eol=lf
+*.txt text eol=lf
+*.cff text eol=lf
+LICENSE text eol=lf
+
+# Explicitly mark binary files to prevent corruption and optimize diffs
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.ico binary
+*.mat binary
+*.fig binary
+
+# IMPROVE LANGUAGE RECOGNITION: Ensure GitHub identifies the repo as MATLAB
+*.m linguist-language=MATLAB
+*.mlx linguist-language=MATLAB
+*.slx binary
+*.mdl text
+
+# Improve diff handling for specialized formats
+*.md text diff=markdown
