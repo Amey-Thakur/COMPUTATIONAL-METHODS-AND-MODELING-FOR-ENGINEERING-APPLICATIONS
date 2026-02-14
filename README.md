@@ -119,7 +119,7 @@ A granular record of analytical in-class assessments and tactical computational 
 
 ### 🚘 Adaptive Cruise Control
 
-**A comprehensive group project focusing on the design and implementation of an Adaptive Cruise Control (ACC) system using MATLAB and Simulink.**
+**Design and implementation of an Adaptive Cruise Control (ACC) system using MATLAB and Simulink.**
 
 [![Project](https://img.shields.io/badge/Project-Adaptive%20Cruise%20Control-blue?style=for-the-badge&logo=github)](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) [![Stack](https://img.shields.io/badge/Stack-MATLAB%20%7C%20Simulink-orange?style=for-the-badge&logo=mathworks)](https://www.mathworks.com/products/matlab.html) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL)
 
