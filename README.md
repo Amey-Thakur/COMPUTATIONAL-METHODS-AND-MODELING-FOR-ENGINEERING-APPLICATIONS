@@ -137,12 +137,12 @@ A comprehensive archival log documenting pedagogical discourse across ten chapte
 | 12 | **Week 12** | July 25, 2023 | **Simulink** | [Chapter 10](Resources/Chapter%2010%20-%20Simulink/GENG8030_Chapter10_Simulink.pdf) | [Tutorial 8](MATLAB%20Tutorials%20and%20Solutions/Tutorial%2008/Tutorial8_GENG_Summer2023-Chapter9.pdf) & [Tutorial 9](MATLAB%20Tutorials%20and%20Solutions/Tutorial%2009/Tutorial9_GENG_Summer2023-Chapter10.pdf) |
 | — | — | August 18, 2023 | **Final Examination** | — | — |
 
-> [!NOTE]
-> The **Applied Tutorial Solutions** matrix below serves as a consolidated archival record of the technical coursework and MATLAB scripts developed during the Summer 2023 session. Each implementation follows the textbook's theoretical frameworks, providing a direct mapping between mathematical principles and functional models.
-
-## Applied Tutorial Solutions
+### Applied Tutorial Solutions
 
 A specialized archival directory of technical solutions, meticulously categorized by textbook chapter and tutorial milestone.
+
+> [!NOTE]
+> The **Applied Tutorial Solutions** matrix below serves as a consolidated archival record of the technical coursework and MATLAB scripts developed during the Summer 2023 session. Each implementation follows the textbook's theoretical frameworks, providing a direct mapping between mathematical principles and functional models.
 
 | # | Topic | Tutorial | Solution |
 | :-: | :--- | :---: | :--- |
