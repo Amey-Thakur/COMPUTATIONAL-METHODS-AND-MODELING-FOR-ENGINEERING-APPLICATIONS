@@ -120,12 +120,15 @@ A granular record of analytical in-class assessments and tactical computational 
 > [!TIP]
 > **Project Focus:** The Adaptive Cruise Control project exemplifies the transition from theoretical modeling to applied technical realization. By integrating sensor logic with dynamic speed control, this project highlights the critical role of MATLAB in modern automotive engineering and control system design.
 
-| # | Phase | Milestone | Deliverables |
-| :---: | :--- | :--- | :--- |
-| 1 | **Formative** | [Project Groups](Matlab%20Project/Project%20Groups.pdf) | Group allocation and technical title registration |
-| 2 | **Strategic** | [Preliminary Report](Matlab%20Project/Preliminary%20Report/Adaptive%20Cruise%20Control%20Preliminary%20Report.pdf) | Technical framework and initial system architecture |
-| 3 | **Finalization** | [Final Project Report](Matlab%20Project/Final%20Report/Adaptive%20Cruise%20Control%20Final%20Report.pdf) | Comprehensive technical analysis and system validation |
-| 4 | **Implementation** | [MATLAB Source Code](Matlab%20Project/Final%20Report/Group32_Amey_Brano_Nandu.m) | Applied logic for Arduino-integrated ACC simulation |
+| # | Phase | Milestone | Deliverables | Marks |
+| :---: | :--- | :--- | :--- | :-: |
+| 1 | **Formative** | [Project Groups](Matlab%20Project/Project%20Groups.pdf) | Group allocation and technical title registration | — |
+| 2 | **Strategic** | [Preliminary Report](Matlab%20Project/Preliminary%20Report/Adaptive%20Cruise%20Control%20Preliminary%20Report.pdf) | Technical framework and initial system architecture | 4.8/5 |
+| 3 | **Finalization** | [Final Project Report](Matlab%20Project/Final%20Report/Adaptive%20Cruise%20Control%20Final%20Report.pdf) | Comprehensive technical analysis and system validation | **21.8/20** |
+| 4 | **Implementation** | [MATLAB Source Code](Matlab%20Project/Final%20Report/Group32_Amey_Brano_Nandu.m) | Applied logic for Arduino-integrated ACC simulation | — |
+
+> [!NOTE]
+> The Final Project Report score of **109% (21.8/20)** reflects the successful completion of an on-the-spot technical challenge, validating the real-time application of adaptive control logic beyond the standard assessment criteria.
 
 ---
 
