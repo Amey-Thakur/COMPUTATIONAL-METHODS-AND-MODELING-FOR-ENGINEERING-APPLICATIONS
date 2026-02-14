@@ -25,7 +25,9 @@
 % - Hardware Interface: Arduino Uno (COM5)
 % - Peripherals: Ultrasonic Sensor (HC-SR04), 16x2 LCD Display (I2C/Parallel), 
 %   Analog Potentiometers, LED Indicators.
-% - Libraries: Arduino Support Package, Ultrasonic, LiquidCrystal (ExampleLCD)
+% 
+% RELEASE DATE: September 08, 2023
+% LICENSE: MIT License
 % =========================================================================================
 
 % --- Environment Initialization ---
