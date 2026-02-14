@@ -77,7 +77,7 @@ This collection includes **comprehensive reference materials** and pedagogical g
 | 1 | [MATLAB for Engineering Applications - William J. Palm](Resources/MATLAB%20for%20Engineering%20Applications%20by%20William%20J.%20Palm.pdf) | Core textbook for advanced MATLAB programming and engineering modeling. |
 | 2 | [MATLAB Cheat Sheet](Resources/Matlab%20Cheat%20Sheet.pdf) | A condensed guide for syntax, functions, and plotting commands. |
 | 3 | [Simulink YouTube Video Resources](Resources/Simulink%20YouTube%20Video%20Resources/Simulink%20YouTube%20Video%20Resources.pdf) | Curated digital library for block-diagram based simulation learning. |
-| 4 | [MATLAB Plotting & Visualization Script](Resources/Amey_110107589.pdf) | Practical implementation of 2D data visualization techniques including Scatter, Stem, Bar, and Stair plots. |
+| 4 | [MATLAB Plotting & Visualization Script - *July 4, 2023*](Resources/Amey_110107589.pdf) | Practical implementation of 2D data visualization techniques including Scatter, Stem, Bar, and Stair plots. |
 
 ---
 
