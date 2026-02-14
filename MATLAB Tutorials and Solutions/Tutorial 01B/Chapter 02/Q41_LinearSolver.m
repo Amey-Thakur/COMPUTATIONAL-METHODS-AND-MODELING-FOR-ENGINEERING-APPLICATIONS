@@ -8,12 +8,14 @@
 % DESCRIPTION:
 % This script solves a system of three linear algebraic equations using the 
 % computationally efficient left-division method (\).
-% Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 2, Q41.
 %
-% LINEAR SYSTEM:
+% PROBLEM STATEMENT (Q41):
+% Solve the following problem using the left-division method:
 %  6x - 3y + 4z =  41
 % 12x + 5y - 7z = -26
 % -5x + 2y - 6z =  16
+%
+% Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 2, Q41.
 %
 % FORM: A * X = B  => X = A \ B
 %

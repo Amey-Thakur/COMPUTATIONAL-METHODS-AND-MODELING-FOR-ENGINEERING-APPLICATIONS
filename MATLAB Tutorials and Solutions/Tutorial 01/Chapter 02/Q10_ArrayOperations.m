@@ -9,6 +9,15 @@
 % This script demonstrates advanced array manipulation and computational linear algebra.
 % It performs row/column selection, statistical aggregation, and element-wise 
 % operations on logarithmically transformed matrices.
+%
+% PROBLEM STATEMENT (Q10):
+% Given the matrix A = [1 4 2; 2 4 100; 7 9 7; 3 pi 42], use MATLAB to:
+% a. Find the matrix B = ln(A) and select the second row of B.
+% b. Evaluate the sum of the second row of B.
+% c. Multiply the second column of B and the first column of A element-wise.
+% d. Evaluate the maximum value of the result from step (c).
+% e. Divide the first row of A by the first 3 elements of the third column of B.
+%
 % Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 2, Q10.
 %
 % TECHNOLOGY STACK:

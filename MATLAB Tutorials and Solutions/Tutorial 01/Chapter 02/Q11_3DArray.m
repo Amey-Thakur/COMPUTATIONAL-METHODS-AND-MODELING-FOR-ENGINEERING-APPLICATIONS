@@ -9,6 +9,12 @@
 % This script constructs and analyzes a three-dimensional array (Tensor). 
 % It identifies local maxima within each spatial "layer" and the global maximum
 % across the entire 3D volume.
+%
+% PROBLEM STATEMENT (Q11):
+% Construct a 3D array D using the following matrices as layers:
+% A = [3 -2 1; 6 8 -5; 7 9 10], B = [6 9 -4; 7 5 3; -8 2 1], C = [-7 -5 2; 10 6 1; 3 -9 8].
+% Find the maximum values in each layer and the global maximum in the 3D array.
+%
 % Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 2, Q11.
 %
 % TECHNOLOGY STACK:

@@ -8,6 +8,14 @@
 % DESCRIPTION:
 % This script executes a suite of complex numerical evaluations involving nested 
 % exponentials, logarithms, and squared trigonometric functions (cos^2).
+%
+% PROBLEM STATEMENT (Q22):
+% Use MATLAB to calculate:
+% a. e^(-2.1)^3 + 3.47 log(14) + sqrt[4]{287}
+% b. (3.4)^7 log(14) + sqrt[4]{287}
+% c. cos^2( 4.12*pi / 6 )
+% d. cos( 4.12*pi / 6 )^2
+%
 % Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 1, Q22.
 %
 % TECHNOLOGY STACK:

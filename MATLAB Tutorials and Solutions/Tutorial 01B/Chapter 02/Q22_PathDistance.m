@@ -9,12 +9,19 @@
 % This script computes the distance of closest approach between a ship traveling on a 
 % straight-line course and a lighthouse located at the origin (0,0).
 % The course is defined by the linear equation y = (200 - 5x) / 6.
-% Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 2, Q22.
+%
+% PROBLEM STATEMENT (Q22):
+% A ship travels on a straight line course described by y = (200 - 5x) / 6, 
+% where distances are measured in kilometers. The ship starts when x = -20 
+% and ends when x = 40. Calculate the distance at closest approach to a 
+% lighthouse located at the coordinate origin (0,0). 
 %
 % MATHEMATICAL MODEL:
 % 1. Distance squared: D^2 = x^2 + y^2
 % 2. Substitution:    D^2 = x^2 + [ (200 - 5x) / 6 ]^2
 % 3. Optimization:    Find x that minimizes D (or D^2) within x \in [-20, 40].
+%
+% Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 2, Q22.
 %
 % TECHNOLOGY STACK:
 % - Programming Language: MATLAB (R2023a+)

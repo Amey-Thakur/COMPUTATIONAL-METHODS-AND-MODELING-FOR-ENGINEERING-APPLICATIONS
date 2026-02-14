@@ -9,6 +9,11 @@
 % This script computes the algebraic roots of a general cubic equation of the form:
 % x^3 + a*x^2 + b*x + c = 0.
 % It utilizes user-prompted coefficients and MATLAB's polynomial root-finding algorithms.
+%
+% PROBLEM STATEMENT (Q35):
+% Write a script file that prompts the user for the coefficients a, b, and c 
+% of the cubic equation x^3 + ax^2 + bx + c = 0, and computes the three roots.
+%
 % Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 1, Q35.
 %
 % TECHNOLOGY STACK:
