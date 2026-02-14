@@ -93,6 +93,24 @@ Academic roadmap and administrative records for the Summer 2023 session:
 ---
 
 <!-- =========================================================================================
+                                     QUIZZES SECTION
+     ========================================================================================= -->
+### Quizzes
+
+A granular record of analytical in-class assessments and tactical computational proofs conducted during the Summer 2023 session.
+
+| # | Quiz | Topics | Marks |
+| :-: | :--- | :--- | :-: |
+| 1 | Quiz 1 | Overview of MATLAB & Arrays | 4/6 |
+| 2 | Quiz 2 | Functions & Programming | 3.25/6 |
+| 3 | Quiz 3 | Advanced Plotting & Visualization | 4.8/6 |
+| 4 | Quiz 4 | Model Building & Regression | 6/6 |
+| 5 | Quiz 5 | Statistics & Interpolation | 6/6 |
+| 6 | Quiz 6 | Linear Algebra & Numerical Methods | — |
+
+---
+
+<!-- =========================================================================================
                                      MATLAB PROJECT SECTION
      ========================================================================================= -->
 ## MATLAB Project
