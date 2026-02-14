@@ -8,6 +8,15 @@
 % DESCRIPTION:
 % This script verifies the fundamental laws of matrix algebra—specifically the 
 % commutative and associative laws of addition—using structured 2x2 matrices.
+%
+% PROBLEM STATEMENT (Q15):
+% Given the matrices A = [-7 11; 4 9], B = [4 -5; 12 -2], and C = [-3 -9; 7 8], 
+% use MATLAB to:
+% a. Find A + B + C.
+% b. Find A - B + C.
+% c. Verify the associative law: (A + B) + C = A + (B + C)
+% d. Verify the commutative law: A + B + C = B + C + A = A + C + B
+%
 % Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 2, Q15.
 %
 % TECHNOLOGY STACK:
@@ -51,8 +60,19 @@ is_commutative = isequal(S1, S2, S3);
 fprintf('--- Matrix Algebraic Analysis ---\n');
 fprintf('a. Result of A + B + C:\n'); disp(Sum_ABC);
 fprintf('b. Result of A - B + C:\n'); disp(Mixed_ABC);
-fprintf('c. Associative Law Proof Status: %s\n', is_associative ? 'VERIFIED' : 'FAILED');
-fprintf('d. Commutative Law Proof Status: %s\n', is_commutative ? 'VERIFIED' : 'FAILED');
+
+% Conditional status reporting
+assoc_str = 'FAILED';
+if is_associative
+    assoc_str = 'VERIFIED';
+end
+comm_str = 'FAILED';
+if is_commutative
+    comm_str = 'VERIFIED';
+end
+
+fprintf('c. Associative Law Proof Status: %s\n', assoc_str);
+fprintf('d. Commutative Law Proof Status: %s\n', comm_str);
 
 % Professional Scholarly Footer
 fprintf('\nAlgebraic Insight: Matrix addition is both associative and commutative because it boils down to element-wise scalar addition, which inherits these properties.\n');

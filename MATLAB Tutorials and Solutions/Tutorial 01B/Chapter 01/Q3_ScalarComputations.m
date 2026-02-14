@@ -8,6 +8,14 @@
 % DESCRIPTION:
 % This script performs fundamental scalar algebraic computations to evaluate mathematical 
 % expressions involving exponents, trigonometric constants, and rational fractions.
+%
+% PROBLEM STATEMENT (Q3):
+% Suppose that x = 5 and y = 2. Use MATLAB to compute the following:
+% a. (1 - 1/x^5)^-1
+% b. 3*pi*x^2
+% c. 3y / (4x - 8)
+% d. 4(y - 5) / (3x - 6)
+%
 % Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 1, Q3.
 %
 % TECHNOLOGY STACK:

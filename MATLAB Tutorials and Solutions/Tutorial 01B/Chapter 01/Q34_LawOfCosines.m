@@ -8,10 +8,17 @@
 % DESCRIPTION:
 % This script implements a geometric solver based on the Law of Cosines to calculate 
 % side lengths in a quadrilateral composed of two adjacent triangles.
-% Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 1, Q34.
+%
+% PROBLEM STATEMENT (Q34):
+% The four-sided figure shown in Figure P34 consists of two triangles having a 
+% common side a. Develop a procedure for computing the length of side c2 if you 
+% are given the lengths of sides b1, b2, and c1 and the angles A1 and A2 in degrees.
+% Test your script using: b1 = 200m, b2 = 180m, c1 = 120m, A1 = 120, and A2 = 100.
 %
 % MATHEMATICAL MODEL:
 % Law of Cosines: a^2 = b^2 + c^2 - 2*b*c*cos(A)
+%
+% Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 1, Q34.
 %
 % TECHNOLOGY STACK:
 % - Programming Language: MATLAB (R2023a+)

@@ -8,7 +8,13 @@
 % DESCRIPTION:
 % This script generates a precise parametric plot of a cycloid, the curve traced by a 
 % point on the circumference of a circular wheel rolling along a straight line.
-% Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 1, Q30.
+%
+% PROBLEM STATEMENT (Q30):
+% A cycloid is the curve described by a point on the circumference of a circular 
+% wheel rolling along a straight line. The parametric equations of a cycloid are:
+% x = r(phi - sin(phi))
+% y = r(1 - cos(phi))
+% Plot the cycloid for r = 10 inches and for 0 <= phi <= 4*pi.
 %
 % PARAMETRIC EQUATIONS:
 % x = r * (phi - sin(phi))

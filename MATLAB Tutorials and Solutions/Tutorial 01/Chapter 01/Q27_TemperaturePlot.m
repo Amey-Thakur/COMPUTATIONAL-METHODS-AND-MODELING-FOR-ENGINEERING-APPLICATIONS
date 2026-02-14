@@ -8,6 +8,11 @@
 % DESCRIPTION:
 % This script visualizes temperature variation over time by plotting the function
 % T = 7*ln(t) - 8*e^(0.3t) within the temporal interval [1, 3].
+%
+% PROBLEM STATEMENT (Q27):
+% Plot the following function for t over the interval 1 <= t <= 3:
+% T = 7*ln(t) - 8*e^(0.3t)
+%
 % Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 1, Q27.
 %
 % TECHNOLOGY STACK:

@@ -9,6 +9,12 @@
 % This script analyzes Hooke''s Law and Elastic Potential Energy for multiple springs.
 % It calculates displacement (x) and stored energy (U = 0.5 * k * x^2) from 
 % empirical force and spring constant data.
+%
+% PROBLEM STATEMENT (Q27):
+% Five springs have forces F = [11, 7, 8, 10, 9] N and spring constants 
+% k = [1000, 600, 900, 1300, 700] N/m. Find the compression x for each spring 
+% (x = F/k) and the stored potential energy (U = 0.5kx^2).
+%
 % Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 2, Q27.
 %
 % PHYSICS MODELS:

@@ -8,6 +8,16 @@
 % DESCRIPTION:
 % This script evaluates complex mathematical expressions using a specific set of 
 % empirical constants (a, b, c, d, f) to verify structural computational logic.
+%
+% PROBLEM STATEMENT (Q5):
+% Assuming that the variables a, b, c, d, and f are scalars, write MATLAB statements 
+% to compute and display the following expressions. Test your statements for the 
+% values a = 1.12, b = 2.34, c = 0.72, d = 0.81, and f = 19.83.
+% x = 1 + a/b + c/f^2
+% s = (b-a) / (d-c)
+% r = 1 / ( 1/a + 1/b + 1/c + 1/d )
+% y = ab * (1/c) * (f^2 / 2)
+%
 % Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 1, Q5.
 %
 % TECHNOLOGY STACK:

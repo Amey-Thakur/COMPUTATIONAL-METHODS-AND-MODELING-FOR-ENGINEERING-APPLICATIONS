@@ -9,6 +9,12 @@
 % This script computes the mechanical work performed over a piecewise path.
 % It utilizes the fundamental relationship W = F * d for discrete path segments
 % with varying friction properties and calculates the cumulative work.
+%
+% PROBLEM STATEMENT (Q23):
+% A person must move five segments on a path. The forces F required are 
+% [400, 550, 700, 500, 600] N and the distances d are [3, 0.5, 0.75, 1.5, 5] m.
+% Find the work for each segment (W = Fd) and the total work for the path.
+%
 % Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 2, Q23.
 %
 % TECHNOLOGY STACK:

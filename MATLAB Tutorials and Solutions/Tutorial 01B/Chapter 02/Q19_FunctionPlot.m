@@ -8,6 +8,12 @@
 % DESCRIPTION:
 % This script generates a high-resolution visualization of the non-linear function
 % f(x) = (4*cos(x)) / (x + e^(-0.75x)) over the interval [-2, 16].
+%
+% PROBLEM STATEMENT (Q19):
+% Plot the following function for x over the interval -2 <= x <= 16:
+% f(x) = (4 * cos(x)) / (x + e^(-0.75x))
+% Use enough points to get a smooth curve.
+%
 % Reference: MATLAB for Engineering Applications, William J. Palm, Chapter 2, Q19.
 %
 % TECHNOLOGY STACK:
