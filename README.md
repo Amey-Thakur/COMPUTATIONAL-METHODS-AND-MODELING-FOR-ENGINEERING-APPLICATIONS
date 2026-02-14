@@ -132,7 +132,7 @@ A granular record of analytical in-class assessments and tactical computational 
 
 > [!IMPORTANT]
 > ### 🤝🏻 Special Acknowledgement
-> *Special thanks to **Brano** and **Nandu** for their meaningful contributions, guidance, and support that helped shape this work.*
+> *Special thanks to **Nandeshwar Royal Uppalapati** and **Brano Bruno Barshmen** for their meaningful contributions, guidance, and support that helped shape this work.*
 
 ### Project Overview
 
