@@ -1,0 +1,16 @@
+Chapter 1 - An Overview of MATLAB
+
+1: MATLAB FOR ENGINEERS - MATLAB Interface
+https://youtu.be/UNLU9e1qGBg
+
+2: MATLAB FOR ENGINEERS - Order of Precedence
+https://youtu.be/9KSBS6pZWzs
+
+3: MATLAB FOR ENGINEERS - 2 Sample Problems - Engineers Academy
+https://youtu.be/Ly-OjBiVk2s
+
+4: MATLAB FOR ENGINEERS - Input ( ) and Disp ( ) Functions
+https://youtu.be/m4pYcPtE3k8
+
+5: MATLAB FOR ENGINEERS - Array Addressing- Engineers Academy
+https://youtu.be/x94BRFpLaTk

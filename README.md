@@ -123,16 +123,16 @@ A comprehensive archival log documenting pedagogical discourse across ten chapte
 
 | # | Topic | Lecture Slides | Applied Tutorials |
 | :-: | :--- | :---: | :---: |
-| 1 | **Overview of MATLAB** | [View](Resources/Chapter%201%20-%20An%20Overview%20of%20MATLAB/GENG8030_Chapter1_An%20Overview%20of%20MATLAB.pdf) | [View](Resources/Chapter%201%20-%20An%20Overview%20of%20MATLAB/Chapter%201%20-%20An%20Overview%20of%20MATLAB.txt) |
-| 2 | **Numeric & Cell Arrays** | [View](Resources/Chapter%202%20-%20Numeric%2C%20Cell%20and%20Structure%20Arrays/GENG8030_Chapter2_Numeric%2C%20Cell%2C%20and%20Structure%20Arrays.pdf) | [View](Resources/Chapter%202%20-%20Numeric%2C%20Cell%20and%20Structure%20Arrays/Tutorial1_GENG8030_Summer2023-Chapters-1-2.pdf) |
-| 3 | **Functions** | [View](Resources/Chapter%203%20-%20Functions/GENG8030_Chapter3_Functions.pdf) | [View](Resources/Chapter%203%20-%20Functions/Tutorial1B_GENG8030_Summer2023-Chapters-1-2.pdf) |
+| 1 | **Overview of MATLAB** | [View](Resources/Chapter%201%20-%20An%20Overview%20of%20MATLAB/GENG8030_Chapter1_An%20Overview%20of%20MATLAB.pdf) | [View](MATLAB%20Tutorials%20and%20Solutions/Chapter%201%20-%20An%20Overview%20of%20MATLAB.txt) |
+| 2 | **Numeric & Cell Arrays** | [View](Resources/Chapter%202%20-%20Numeric%2C%20Cell%20and%20Structure%20Arrays/GENG8030_Chapter2_Numeric%2C%20Cell%2C%20and%20Structure%20Arrays.pdf) | [View](MATLAB%20Tutorials%20and%20Solutions/Tutorial1_GENG8030_Summer2023-Chapters-1-2.pdf) |
+| 3 | **Functions** | [View](Resources/Chapter%203%20-%20Functions/GENG8030_Chapter3_Functions.pdf) | [View](MATLAB%20Tutorials%20and%20Solutions/Tutorial1B_GENG8030_Summer2023-Chapters-1-2.pdf) |
 | 4 | **Programming with MATLAB** | [View](Resources/Chapter%204%20-%20Programming%20with%20MATLAB/GENG8030_Chapter4_Programming%20with%20MATLAB.pdf) | — |
 | 5 | **Advanced Plotting** | [View](Resources/Chapter%205%20-%20Advanced%20Plotting/GENG8030_Chapter5_Advanced%20Plotting.pdf) | — |
-| 6 | **Model Building & Regression** | [View](Resources/Chapter%206%20-%20Model%20Building%20and%20Regression/GENG8030_Chapter6_Model%20Building%20and%20Regression.pdf) | [View](Resources/Chapter%206%20-%20Model%20Building%20and%20Regression/Tutorial4_GENG_Summer2023-Chapter5.pdf) |
-| 7 | **Statistics & Interpolation** | [View](Resources/Chapter%207%20-%20Statistics%2C%20Probability%2C%20and%20Interpolation/GENG8030_Chapter7_Statistics%2C%20Probability%2C%20and%20Interpolation.pdf) | [View](Resources/Chapter%207%20-%20Statistics%2C%20Probability%2C%20and%20Interpolation/Tutorial5_GENG_Summer2023-Chapter6.pdf) |
-| 8 | **Linear Algebraic Equations** | [View](Resources/Chapter%208%20-%20Linear%20Algebraic%20Equations/GENG8030_Chapter8_Linear%20Algebraic%20Equations.pdf) | [View](Resources/Chapter%208%20-%20Linear%20Algebraic%20Equations/Tutorial6_GENG_Summer2023-Chapter7.pdf) |
-| 9 | **Numerical Methods** | [View](Resources/Chapter%209%20-%20Numerical%20Methods%20for%20Calculus%20and%20Differential%20Equations/GENG8030_Chapter9_Numerical%20Methods%20for%20Calculus.pdf) | [View](Resources/Chapter%209%20-%20Numerical%20Methods%20for%20Calculus%20and%20Differential%20Equations/Tutorial7_GENG_Summer2023-Chapter8.pdf) |
-| 10 | **Simulink** | [View](Resources/Chapter%2010%20-%20Simulink/GENG8030_Chapter10_Simulink.pdf) | [View](Resources/Chapter%2010%20-%20Simulink/Tutorial9_GENG_Summer2023-Chapter10.pdf) |
+| 6 | **Model Building & Regression** | [View](Resources/Chapter%206%20-%20Model%20Building%20and%20Regression/GENG8030_Chapter6_Model%20Building%20and%20Regression.pdf) | [View](MATLAB%20Tutorials%20and%20Solutions/Tutorial4_GENG_Summer2023-Chapter5.pdf) |
+| 7 | **Statistics & Interpolation** | [View](Resources/Chapter%207%20-%20Statistics%2C%20Probability%2C%20and%20Interpolation/GENG8030_Chapter7_Statistics%2C%20Probability%2C%20and%20Interpolation.pdf) | [View](MATLAB%20Tutorials%20and%20Solutions/Tutorial5_GENG_Summer2023-Chapter6.pdf) |
+| 8 | **Linear Algebraic Equations** | [View](Resources/Chapter%208%20-%20Linear%20Algebraic%20Equations/GENG8030_Chapter8_Linear%20Algebraic%20Equations.pdf) | [View](MATLAB%20Tutorials%20and%20Solutions/Tutorial6_GENG_Summer2023-Chapter7.pdf) |
+| 9 | **Numerical Methods** | [View](Resources/Chapter%209%20-%20Numerical%20Methods%20for%20Calculus%20and%20Differential%20Equations/GENG8030_Chapter9_Numerical%20Methods%20for%20Calculus.pdf) | [View](MATLAB%20Tutorials%20and%20Solutions/Tutorial7_GENG_Summer2023-Chapter8.pdf) |
+| 10 | **Simulink** | [View](Resources/Chapter%2010%20-%20Simulink/GENG8030_Chapter10_Simulink.pdf) | [View](MATLAB%20Tutorials%20and%20Solutions/Tutorial9_GENG_Summer2023-Chapter10.pdf) |
 
 ---
 
