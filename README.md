@@ -95,7 +95,7 @@ Academic roadmap and administrative records for the Summer 2023 session:
 <!-- =========================================================================================
                                      QUIZZES SECTION
      ========================================================================================= -->
-### Quizzes
+### **Quizzes**
 
 A granular record of analytical in-class assessments and tactical computational proofs conducted during the Summer 2023 session.
 
