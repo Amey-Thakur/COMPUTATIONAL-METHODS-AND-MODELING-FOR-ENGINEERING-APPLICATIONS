@@ -115,20 +115,38 @@ A granular record of analytical in-class assessments and tactical computational 
      ========================================================================================= -->
 ## MATLAB Project
 
+<div align="center">
+
+[![Project](https://img.shields.io/badge/Project-Adaptive%20Cruise%20Control-blue?style=for-the-badge&logo=github)](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) [![Stack](https://img.shields.io/badge/Stack-MATLAB%20%7C%20Simulink-orange?style=for-the-badge&logo=mathworks)](https://www.mathworks.com/products/matlab.html) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL)
+
+</div>
+
+### Authors
+
+| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39)](https://orcid.org/0000-0001-5644-1575) |
+| :---: |
+
+> [!IMPORTANT]
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to **Brano** and **Nandu** for their meaningful contributions, guidance, and support that helped shape this work.*
+
+### Project Overview
+
 **A comprehensive group project focusing on the design and implementation of an Adaptive Cruise Control (ACC) system using MATLAB and Simulink.**
 
-> [!TIP]
-> **Project Focus:** The Adaptive Cruise Control project exemplifies the transition from theoretical modeling to applied technical realization. By integrating sensor logic with dynamic speed control, this project highlights the critical role of MATLAB in modern automotive engineering and control system design.
+The Adaptive Cruise Control project exemplifies the transition from theoretical modeling to applied technical realization. By integrating sensor logic with dynamic speed control, this project highlights the critical role of MATLAB in modern automotive engineering and control system design.
+
+> [!NOTE]
+> The Final Project Report score of **109% (21.8/20)** reflects the successful completion of an on-the-spot technical challenge, validating the real-time application of adaptive control logic beyond the standard assessment criteria.
+
+### Resources
 
 | # | Phase | Milestone | Deliverables | Marks |
-| :---: | :--- | :--- | :--- | :-: |
+| :-: | :--- | :--- | :--- | :-: |
 | 1 | **Formative** | [Project Groups](Matlab%20Project/Project%20Groups.pdf) | Group allocation and technical title registration | — |
 | 2 | **Strategic** | [Preliminary Report](Matlab%20Project/Preliminary%20Report/Adaptive%20Cruise%20Control%20Preliminary%20Report.pdf) | Technical framework and initial system architecture | 4.8/5 |
 | 3 | **Finalization** | [Final Project Report](Matlab%20Project/Final%20Report/Adaptive%20Cruise%20Control%20Final%20Report.pdf) | Comprehensive technical analysis and system validation | **21.8/20** |
 | 4 | **Implementation** | [MATLAB Source Code](Matlab%20Project/Final%20Report/Group32_Amey_Brano_Nandu.m) | Applied logic for Arduino-integrated ACC simulation | — |
-
-> [!NOTE]
-> The Final Project Report score of **109% (21.8/20)** reflects the successful completion of an on-the-spot technical challenge, validating the real-time application of adaptive control logic beyond the standard assessment criteria.
 
 ---
 
