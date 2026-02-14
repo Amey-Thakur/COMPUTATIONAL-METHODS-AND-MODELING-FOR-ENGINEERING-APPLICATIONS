@@ -135,6 +135,7 @@ A comprehensive archival log documenting pedagogical discourse across ten chapte
 | 10 | **Week 10** | July 11, 2023 | **Linear Algebraic Equations** | [Chapter 8](Resources/Chapter%208%20-%20Linear%20Algebraic%20Equations/GENG8030_Chapter8_Linear%20Algebraic%20Equations.pdf) | [Tutorial 6](MATLAB%20Tutorials%20and%20Solutions/Tutorial%2006/Tutorial6_GENG_Summer2023-Chapter7.pdf) | — |
 | 11 | **Week 11** | July 18, 2023 | **Numerical Methods** | [Chapter 9](Resources/Chapter%209%20-%20Numerical%20Methods%20for%20Calculus%20and%20Differential%20Equations/GENG8030_Chapter9_Numerical%20Methods%20for%20Calculus.pdf) | [Tutorial 7](MATLAB%20Tutorials%20and%20Solutions/Tutorial%2007/Tutorial7_GENG_Summer2023-Chapter8.pdf) | — |
 | 12 | **Week 12** | July 25, 2023 | **Simulink** | [Chapter 10](Resources/Chapter%2010%20-%20Simulink/GENG8030_Chapter10_Simulink.pdf) | [Tutorial 8](MATLAB%20Tutorials%20and%20Solutions/Tutorial%2008/Tutorial8_GENG_Summer2023-Chapter9.pdf) & [Tutorial 9](MATLAB%20Tutorials%20and%20Solutions/Tutorial%2009/Tutorial9_GENG_Summer2023-Chapter10.pdf) | — |
+| — | — | August 18, 2023 | **Final Examination** | — | — | — |
 
 ---
 
