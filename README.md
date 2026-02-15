@@ -277,7 +277,7 @@ This repository represents a comprehensive collection of study materials, refere
 
 ### Acknowledgments
 
-Grateful acknowledgment to **Dr. Yasser Alginahi** for his exceptional instruction in Computational Methods and Modeling for Engineering Applications, which played an important role in shaping my understanding of the subject. His clear and disciplined approach, along with his thorough explanation of complex mathematical modeling and numerical analysis, made the subject both accessible and engaging. His dedication to academic excellence in the field of engineering computation is gratefully acknowledged.
+Grateful acknowledgment to **Dr. Yasser M. Alginahi** for his exceptional instruction in Computational Methods, which played an important role in shaping my understanding of the subject. His clear and disciplined approach, along with his thorough explanation of numerical analysis and modeling techniques, made the subject both accessible and engaging. His dedication to academic excellence in the field of engineering applications is gratefully acknowledged.
 
 Grateful acknowledgment to my Major Project teammates, **Nandeshwar Royal Uppalapati** and **Brano Bruno Barshmen**, for their collaborative excellence and shared commitment throughout the semester. Our collective efforts in synthesizing technical information and developing comprehensive engineering reports were fundamental to achieving our academic goals and major projects.
 
