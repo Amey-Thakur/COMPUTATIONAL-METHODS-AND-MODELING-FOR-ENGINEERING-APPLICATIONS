@@ -70,7 +70,7 @@ As I progress in my career, I recognize that computational foundations remain es
 ## Repository Contents
 
 ### Reference Books
-This collection includes **comprehensive reference materials** and pedagogical guides:
+This collection includes **comprehensive reference materials** covering all major topics:
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
