@@ -297,6 +297,8 @@ Special thanks to the **mentors** and **peers** whose encouragement, discussions
 
   [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [MATLAB Project](#matlab-project) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Grades](#grades) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
+  <br>
+  
   🚘 [Adaptive Cruise Control](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL)
 
 </div>
