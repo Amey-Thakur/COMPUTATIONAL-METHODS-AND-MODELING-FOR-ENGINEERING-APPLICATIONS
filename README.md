@@ -122,7 +122,7 @@ A granular record of analytical in-class assessments and tactical computational 
 
 **Design and implementation of an Adaptive Cruise Control (ACC) system using MATLAB and Simulink.**
 
-[![Project](https://img.shields.io/badge/Project-Adaptive%20Cruise%20Control-blue.svg)](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) [![Stack](https://img.shields.io/badge/Stack-MATLAB%20%7C%20Simulink-orange.svg)](https://www.mathworks.com/products/matlab.html) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL)
+[![Project](https://img.shields.io/badge/Project-Adaptive%20Cruise%20Control-dc143c.svg)](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) [![Live Demo](https://img.shields.io/badge/Live%20Demo-ACC-dc143c?style=flat)](https://amey-thakur.github.io/ADAPTIVE-CRUISE-CONTROL/) [![Stack](https://img.shields.io/badge/Stack-MATLAB%20%7C%20Simulink-orange.svg)](https://www.mathworks.com/products/matlab.html) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL)
 
 </div>
 
@@ -141,12 +141,16 @@ A granular record of analytical in-class assessments and tactical computational 
 
 ### Project Overview
 
-The Adaptive Cruise Control project exemplifies the transition from theoretical modeling to applied technical realization. By integrating sensor logic with dynamic speed control, this project highlights the critical role of MATLAB in modern automotive engineering and control system design.
+The Adaptive Cruise Control (ACC) system serves as a cornerstone implementation of sensor-driven automation within this archive. This project transcends basic scripting by synthesizing complex control laws with real-time sensor feedback loops, specifically utilizing Arduino-integrated logic to bridge the gap between software simulation and physical actuation. The implementation focuses on longitudinal vehicle dynamics, where the MATLAB-based control algorithm dynamically modulates velocity based on proximity data, demonstrating the high-fidelity modeling required for advanced driver-assistance systems (ADAS). The inclusion of a comprehensive Simulink framework allows for deterministic modeling of vehicle response under varied operational constraints, ensuring rigorous validation of the control logic before deployment.
+
+> [!TIP]
+> **Live Implementation**: For a granular exploration of the autonomous logic and real-world system behavior, explore the **Live Demo and Technical Walkthrough** available in the dedicated [ACC repository](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL). This live record provides the empirical proof of the analytical models curated in this master archive.
+
+### Resources
 
 > [!NOTE]
 > The Final Project Report score of **109% (21.8/20)** reflects the successful completion of an on-the-spot technical challenge, validating the real-time application of adaptive control logic beyond the standard assessment criteria.
 
-### Resources
 
 | # | Phase | Milestone | Deliverables | Marks |
 | :-: | :--- | :--- | :--- | :-: |
