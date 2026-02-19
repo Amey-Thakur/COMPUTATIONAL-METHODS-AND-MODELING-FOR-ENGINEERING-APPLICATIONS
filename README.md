@@ -148,7 +148,7 @@ The Adaptive Cruise Control (ACC) system serves as a cornerstone implementation 
 >
 > You can also explore the interactive browser-based simulation, no hardware or MATLAB required:
 > 
-> **[🚘 Launch Live Demo](https://amey-thakur.github.io/ADAPTIVE-CRUISE-CONTROL/)**
+> 🚘 **[Launch Live Demo](https://amey-thakur.github.io/ADAPTIVE-CRUISE-CONTROL/)**
 
 ### Resources
 
