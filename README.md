@@ -145,6 +145,10 @@ The Adaptive Cruise Control (ACC) system serves as a cornerstone implementation 
 
 > [!TIP]
 > **Live Implementation**: For a granular exploration of the autonomous logic and real-world system behavior, explore the **Live Demo and Technical Walkthrough** available in the dedicated [Adaptive Cruise Control repository](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL). This live record provides the empirical proof of the analytical models curated in this master archive.
+>
+> You can also explore the interactive browser-based simulation, no hardware or MATLAB required:
+> 
+> **[🚘 Launch Live Demo](https://amey-thakur.github.io/ADAPTIVE-CRUISE-CONTROL/)**
 
 ### Resources
 
