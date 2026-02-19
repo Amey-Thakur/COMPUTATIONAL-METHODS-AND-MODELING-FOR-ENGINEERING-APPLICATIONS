@@ -151,7 +151,6 @@ The Adaptive Cruise Control (ACC) system serves as a cornerstone implementation 
 > [!NOTE]
 > The Final Project Report score of **109% (21.8/20)** reflects the successful completion of an on-the-spot technical challenge, validating the real-time application of adaptive control logic beyond the standard assessment criteria.
 
-
 | # | Phase | Milestone | Deliverables | Marks |
 | :-: | :--- | :--- | :--- | :-: |
 | 1 | **Formative** | [Project Groups](Matlab%20Project/Project%20Groups.pdf) | Group allocation and technical title registration | — |
