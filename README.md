@@ -144,7 +144,7 @@ A granular record of analytical in-class assessments and tactical computational 
 The Adaptive Cruise Control (ACC) system serves as a cornerstone implementation of sensor-driven automation within this archive. This project transcends basic scripting by synthesizing complex control laws with real-time sensor feedback loops, specifically utilizing Arduino-integrated logic to bridge the gap between software simulation and physical actuation. The implementation focuses on longitudinal vehicle dynamics, where the MATLAB-based control algorithm dynamically modulates velocity based on proximity data, demonstrating the high-fidelity modeling required for advanced driver-assistance systems (ADAS). The inclusion of a comprehensive Simulink framework allows for deterministic modeling of vehicle response under varied operational constraints, ensuring rigorous validation of the control logic before deployment.
 
 > [!TIP]
-> **Live Implementation**: For a granular exploration of the autonomous logic and real-world system behavior, explore the **Live Demo and Technical Walkthrough** available in the dedicated [ACC repository](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL). This live record provides the empirical proof of the analytical models curated in this master archive.
+> **Live Implementation**: For a granular exploration of the autonomous logic and real-world system behavior, explore the **Live Demo and Technical Walkthrough** available in the dedicated [Adaptive Cruise Control repository](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL). This live record provides the empirical proof of the analytical models curated in this master archive.
 
 ### Resources
 
