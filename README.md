@@ -60,7 +60,7 @@ As I progress in my career, I recognize that computational foundations remain es
 - **Community Contribution**: To share these resources with students and learners who may benefit from them
 
 > [!NOTE]
-> All materials were created, compiled, and organized by me during the Summer 2023 semester as part of my MEng degree requirements.
+> All materials were created, compiled, and organized by me during the **Summer 2023** semester as part of my MEng degree requirements.
 
 ---
 
@@ -82,7 +82,7 @@ This collection includes **comprehensive reference materials** covering all majo
 ---
 
 ### Personal Preparation
-Academic roadmap and administrative records for the Summer 2023 session:
+Academic roadmap and administrative records for the **Summer 2023** session:
 
 | # | Resource | Description |
 |:-:|:---|:---|
@@ -98,7 +98,7 @@ Academic roadmap and administrative records for the Summer 2023 session:
      ========================================================================================= -->
 ### **Quizzes**
 
-A granular record of analytical in-class assessments and tactical computational proofs conducted during the Summer 2023 session.
+A granular record of analytical in-class assessments and tactical computational proofs conducted during the **Summer 2023** session.
 
 | # | Quiz | Topics | Marks |
 | :-: | :--- | :--- | :-: |
@@ -169,7 +169,7 @@ The Adaptive Cruise Control (ACC) system serves as a cornerstone implementation 
      ========================================================================================= -->
 ## Lecture Notes
 
-A comprehensive archival log documenting pedagogical discourse across ten chapters, including weekly slides and applied tutorials for the Summer 2023 session.
+A comprehensive archival log documenting pedagogical discourse across ten chapters, including weekly slides and applied tutorials for the **Summer 2023** session.
 
 > [!TIP]
 > Computational methods and modeling is not merely the execution of code; it is the **bridge between mathematical theory and engineering innovation**. Every module below focuses on the critical translation from **Numerical Algorithms** to **Functional Simulators**, enabling the iterative design and verification of complex engineering systems.
