@@ -122,7 +122,7 @@ A granular record of analytical in-class assessments and tactical computational 
 
 **Design and implementation of an Adaptive Cruise Control (ACC) system using MATLAB and Simulink.**
 
-[![Project](https://img.shields.io/badge/Project-Adaptive%20Cruise%20Control-dc143c.svg)](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) [![Live Demo](https://img.shields.io/badge/Live%20Demo-ACC-dc143c?style=flat)](https://amey-thakur.github.io/ADAPTIVE-CRUISE-CONTROL/) [![Stack](https://img.shields.io/badge/Stack-MATLAB%20%7C%20Simulink-orange.svg)](https://www.mathworks.com/products/matlab.html) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL)
+[![Project](https://img.shields.io/badge/Project-Adaptive%20Cruise%20Control-blue.svg)](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) [![Live Demo](https://img.shields.io/badge/Live%20Demo-ACC-dc143c?style=flat)](https://amey-thakur.github.io/ADAPTIVE-CRUISE-CONTROL/) [![Stack](https://img.shields.io/badge/Stack-MATLAB%20%7C%20Simulink-orange.svg)](https://www.mathworks.com/products/matlab.html) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL)
 
 </div>
 
