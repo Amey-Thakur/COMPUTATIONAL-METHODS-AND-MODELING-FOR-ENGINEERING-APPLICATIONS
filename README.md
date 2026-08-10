@@ -16,7 +16,7 @@
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   [![University](https://img.shields.io/badge/University-Windsor-005596.svg)](https://www.uwindsor.ca)
   [![Program](https://img.shields.io/badge/Program-MEng%20Computer%20Engineering-FFCE00.svg)](https://www.uwindsor.ca/engineering/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   <!-- Short Description -->
   **A comprehensive academic archive for Computational Methods and Modeling for Engineering Applications (GENG 8030), documenting technical proficiency in MATLAB programming, numerical analysis, Simulink modeling, and engineering simulation standards within the Master of Engineering program.**
@@ -122,7 +122,7 @@ A granular record of analytical in-class assessments and tactical computational 
 
 **Design and implementation of an Adaptive Cruise Control (ACC) system using MATLAB and Simulink.**
 
-[![Project](https://img.shields.io/badge/Project-Adaptive%20Cruise%20Control-blue.svg)](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) [![Live Demo](https://img.shields.io/badge/Live%20Demo-ACC-dc143c?style=flat)](https://amey-thakur.github.io/ADAPTIVE-CRUISE-CONTROL/) [![Stack](https://img.shields.io/badge/Stack-MATLAB%20%7C%20Simulink-orange.svg)](https://www.mathworks.com/products/matlab.html) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL)
+[![Project](https://img.shields.io/badge/Project-Adaptive%20Cruise%20Control-BF3989.svg)](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) [![Live Demo](https://img.shields.io/badge/Live%20Demo-ACC-00B8D9?style=flat)](https://amey-thakur.github.io/ADAPTIVE-CRUISE-CONTROL/) [![Stack](https://img.shields.io/badge/Stack-MATLAB%20%7C%20Simulink-8250DF.svg)](https://www.mathworks.com/products/matlab.html) [![Status](https://img.shields.io/badge/Status-Completed-2EA043.svg)](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL)
 
 </div>
 
@@ -321,3 +321,4 @@ Special thanks to the **mentors** and **peers** whose encouragement, discussions
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
+
