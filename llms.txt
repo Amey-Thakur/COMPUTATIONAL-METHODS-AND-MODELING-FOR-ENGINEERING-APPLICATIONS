@@ -1,0 +1,37 @@
+# Computational Methods and Modeling for Engineering Applications
+
+> GENG 8030: Computational Methods and Modeling for Engineering Applications
+> [MATLAB] | Semester II | MEng Computer Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Institution: University of Windsor
+Programme: M.Eng Computer Engineering, Semester II
+Course code: GENG 8030
+Licence: CC BY 4.0, attribution required
+Repository created: 21 May 2023
+Work dated: 8 September 2023
+
+## What is in this repository
+
+- Announcements 📢, 10 files
+- MATLAB Tutorials and Solutions, 74 files
+- Matlab Project, 16 files
+- Resources, 33 files
+- Exam Schedule.pdf
+- GENG8030 - Computational Methods and Modeling for Engineering Applications.pdf
+- Grades.pdf
+- View My Classes - Inter_Summer 2023.pdf
+
+## Subject terms
+
+adaptive-cruise-control, canada, computational-methods,
+computer-engineering, geng-8030, master-of-engineering,
+mathematical-modeling, matlab, matlab-codes, matlab-programming,
+matlab-toolbox, meng, meng-ece, simulink, university-of-windsor, uwindsor
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS
+- Degree index, every subject and project: https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
